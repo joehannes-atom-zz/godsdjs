@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle xiph",
+        "command": "xiph:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "xiph",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "xiph:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
