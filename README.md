@@ -9,4 +9,4 @@ little plugin in there that let's you stream your favorite icecast-station, righ
 
 Listen to any station in xiphs' icecast radio streaming directory!
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![Code Dancer](https://github.com/joehannes-atom/xiph/blob/master/symbol.jpg?raw=true)
