@@ -1,14 +1,23 @@
 {
-  "name": "xiph",
-  "main": "./lib/xiph",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "name": "godsdjs",
+  "main": "./lib/godsdjs",
+  "version": "0.0.1",
+  "description": "A simple player (button) for GodsDjs Christian EDM Internet-Radio (Stream)",
   "keywords": [
+	"godsdjs",
+	"radio",
+	"transform",
+	"edm",
+	"christian",
+	"stream",
+	"music",
+	"atom",
+	"plugin"
   ],
   "activationCommands": {
-    "atom-workspace": "xiph:toggle"
+    "atom-workspace": "godsdjs:toggle"
   },
-  "repository": "https://github.com/atom/xiph",
+  "repository": "https://github.com/joehannes-atom/godsdjs",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

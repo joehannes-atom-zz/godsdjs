@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle xiph",
-        "command": "xiph:toggle"
+        "label": "Toggle Gods Djs Radio",
+        "command": "godsdjs:toggle"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "xiph",
+          "label": "Gods DJs",
           "submenu": [
             {
               "label": "Toggle",
-              "command": "xiph:toggle"
+              "command": "godsdjs:toggle"
             }
           ]
         }
