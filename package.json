@@ -14,9 +14,6 @@
     "atom",
     "plugin"
   ],
-  "activationCommands": {
-    "atom-workspace": "godsdjs:toggle"
-  },
   "repository": "https://github.com/joehannes-atom/godsdjs",
   "license": "MIT",
   "engines": {
