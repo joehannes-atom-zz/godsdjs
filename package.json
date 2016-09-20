@@ -1,7 +1,7 @@
 {
   "name": "godsdjs",
   "main": "./lib/godsdjs",
-  "version": "0.1.22",
+  "version": "0.1.23",
   "description": "A simple player (button) for GodsDjs Christian EDM Internet-Radio (Stream)",
   "keywords": [
     "godsdjs",
