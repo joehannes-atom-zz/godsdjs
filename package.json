@@ -1,18 +1,18 @@
 {
   "name": "godsdjs",
   "main": "./lib/godsdjs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A simple player (button) for GodsDjs Christian EDM Internet-Radio (Stream)",
   "keywords": [
-	"godsdjs",
-	"radio",
-	"transform",
-	"edm",
-	"christian",
-	"stream",
-	"music",
-	"atom",
-	"plugin"
+    "godsdjs",
+    "radio",
+    "transform",
+    "edm",
+    "christian",
+    "stream",
+    "music",
+    "atom",
+    "plugin"
   ],
   "activationCommands": {
     "atom-workspace": "godsdjs:toggle"
@@ -22,6 +22,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
