@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ttt": "godsdjs:toggle"
+    "ctrl-space": "godsdjs:toggle"
   }
 }
