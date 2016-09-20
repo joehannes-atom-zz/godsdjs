@@ -5,17 +5,20 @@
 @import "ui-variables";
 
 .godsdjs {
-	.pulsating.icon.flame {
+	&.pulsating .icon.flame {
 		animation-name: pulsating;
 		animation-duration: 1000ms;
 		transform-origin:50% 50%;
 		animation-iteration-count: infinite;
 		animation-timing-function: ease-in-out;
 	}
+	.pointer-cursor {
+		cursor: pointer;
+	}
 }
 
 @keyframes pulsating {
 	0% { transform: scale(1); }
-	50% { transform: scale(1.37); }
+	50% { transform: scale(1.37); color: #ef3434; }
 	100% { transform: scale(1); }
 };
