@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-space": "godsdjs:toggle"
+    "ctrl-shift-alt-g": "godsdjs:toggle"
   }
 }
